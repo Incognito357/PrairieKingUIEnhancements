@@ -1,4 +1,4 @@
-<h1>Journie of the Prairie King UI Enhancements</h1>
+<h1>Journy of the Prairie King UI Enhancements</h1>
 
 Some UI fixes and enhancements for Journey of the Prairie King. Some fixes are only for things noticeable after beating the game a few times.
 
