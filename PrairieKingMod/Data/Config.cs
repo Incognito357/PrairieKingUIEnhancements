@@ -11,5 +11,7 @@ namespace PrairieKingUIEnhancements
         public bool FixBossHPOverflow { get; set; } = true;
         public bool FixTransitionColor { get; set; } = true;
         public bool HarderFinalBoss { get; set; } = true;
+        public bool MonsterQueueCounts { get; set; } = true;
+        public bool MonsterQueueTimer { get; set; } = true;
     }
 }

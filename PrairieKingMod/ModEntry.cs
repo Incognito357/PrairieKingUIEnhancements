@@ -37,7 +37,8 @@ namespace PrairieKingUIEnhancements
                 new Stats(),
                 new PowerupTimers(),
                 new BossHealth(),
-                new LevelTransitionColor()
+                new LevelTransitionColor(),
+                new QueuedMonsters()
             };
         }
 
