@@ -33,7 +33,7 @@ namespace PrairieKingUIEnhancements
 
             renderables = new List<Renderable>()
             {
-                new LevelIndicators(Helper.Content.Load<Texture2D>("indicators.png", ContentSource.ModFolder)),
+                new LevelIndicators(Helper.ModContent.Load<Texture2D>("indicators.png")),
                 new Stats(),
                 new PowerupTimers(),
                 new BossHealth(),
